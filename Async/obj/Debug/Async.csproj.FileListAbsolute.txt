@@ -1,0 +1,6 @@
+C:\Users\himanshugarg\source\repos\Async\obj\Debug\Async.csprojAssemblyReference.cache
+C:\Users\himanshugarg\source\repos\Async\bin\Debug\Async.exe.config
+C:\Users\himanshugarg\source\repos\Async\bin\Debug\Async.exe
+C:\Users\himanshugarg\source\repos\Async\bin\Debug\Async.pdb
+C:\Users\himanshugarg\source\repos\Async\obj\Debug\Async.exe
+C:\Users\himanshugarg\source\repos\Async\obj\Debug\Async.pdb
